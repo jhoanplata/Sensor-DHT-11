@@ -1,0 +1,2 @@
+# Sensor DHT-11
+ 
