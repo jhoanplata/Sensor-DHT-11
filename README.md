@@ -1,4 +1,6 @@
 # Sensor DHT-11
+
+Sensor de temperatura y humedad , el cual se programa en arduino y por medio de un bluetooh Hc-05 se envia los datos a la aplicación diseñada en App Inventor
  
  
 
